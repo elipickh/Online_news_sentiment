@@ -7,5 +7,5 @@ This Python code performs the following steps:
 2. Import the URLs and scrape and score their sentiments using Newspaper and NLTK.
 3. Repeat steps 1-2 for CNN and NYTimes.
 
-Sentiment is scored separately for positive, negative, and neutral mood, as well as a combined sentimet score.
+Sentiment is scored separately for positive, negative, and neutral mood, as well as a combined sentiment score.
 
