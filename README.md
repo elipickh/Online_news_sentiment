@@ -1,5 +1,5 @@
 # Online_news_sentiment
-Scrape Forbes, CNN, and NYTimes for daily articles and score their mood sentiments
+## Scrape Forbes, CNN, and NYTimes for daily articles and score their mood sentiments
 
 This Python code performs the following steps:
 
